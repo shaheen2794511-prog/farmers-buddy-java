@@ -1,0 +1,10 @@
+.DS_Store
+build/
+
+Farmers Buddy Codes/coding/WEB-INF/config/system.properties
+Farmers Buddy Codes/coding/WEB-INF/config/system.properties.bak
+
+nbproject/private/
+*.DMP
+.DS_Store
+build/
